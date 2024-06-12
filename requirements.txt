@@ -1,0 +1,6 @@
+openai
+groq
+wave
+keyboard
+pyaudio
+python-dotenv
